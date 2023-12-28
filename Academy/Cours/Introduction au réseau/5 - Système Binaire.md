@@ -6,6 +6,14 @@ Le **binaire** est un système de numérotation qui utilise seulement deux chiff
 
 ## Les mots binaires
 
-Dans le système binaire, les bits sont regroupé pour former des valeurs plus grandes. Par exemple, alors qu'un bit ne peux représenter que **2 valeurs** (*0 ou 1*), deux bits peuvent représenter **4 valeurs** (*00, 01, 10, 11*). Ce sont ces regroupements que l'on appel des <span style="font-weight: bold; color: #FF0000;">mots binaires.</span>
+Dans le système binaire, les bits sont regroupé pour former des valeurs plus grandes. Par exemple, alors qu'un bit ne peux représenter que **2 valeurs** (*0 ou 1*), deux bits peuvent représenter **4 valeurs** (*00, 01, 10, 11*). Ce sont ces regroupements que l'on appel des **mots binaires.**
 
 Le regroupement le plus courant est **l'octet**, qui regroupe 8 bits. Historiquement, les ordinateurs étaient utilisé pour faire du traitement de texte; l'octet était donc le meilleur choix, permettant de représenter 256 caractères.
+
+De nombreux autres mots binaires sont utilisé celon les besoin.
+
+## Conversion binaire vers décimal
+
+| 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+|:---:|:--:|:--:|:--:|:-:|:-:|:-:|:-:|
+| 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
